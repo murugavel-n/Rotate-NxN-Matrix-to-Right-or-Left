@@ -4,9 +4,9 @@ This contains the following functions
 - printArray
 - rotateMatrixArray
 
-#generateMatrixArray
+# generateMatrixArray
 This will create new matrix array for given length.
-#printArray
+# printArray
 This will help you to visualiza the matrix by printing in on console
-#rotateMatrixArray
+# rotateMatrixArray
 This will do the rotation of the given matrix based on the flag (0 - to left, 1 - to right) with default rotation as to left.
