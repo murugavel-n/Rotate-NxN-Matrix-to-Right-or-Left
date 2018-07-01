@@ -1,6 +1,6 @@
 # Rotate NxN Matrix to Right or Left
 This contains the following functions
-- generateMatrixArray
+- [generateMatrixArray](#generateMatrixArray)
 - printArray
 - rotateMatrixArray
 
